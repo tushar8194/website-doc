@@ -13,6 +13,6 @@ For development, you'll also need to install [RedCloth](https://redcloth.org/).
 
 Then `make serve` will launch `jekyll` in serving mode: a web server will be launched on port 4000, and changing files will automatically rebuild the site.
 
-To publish to https://tushar8194.github.io/scala_school/:
+To publish to https://tushar8194.github.io/website-doc/:
 
 	$ make publish
